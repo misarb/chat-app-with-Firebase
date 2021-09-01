@@ -1,4 +1,15 @@
-# Familly_Chat
+# Familly Chat app with Firebase
+
+Flutter chat app with firebase and login page with beautiful animation
+
+## Login page 
+![](ScreenShoots/1.jfif)
+
+## Register Page 
+![](ScreenShoots/2.jfif)
+
+## group chat screen
+![](ScreenShoots/3.jfif)
 
 A new Flutter project.
 
